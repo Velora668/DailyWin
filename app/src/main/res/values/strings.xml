@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DailyWin</string>
+    <string name="nav_earn">Earn</string>
+    <string name="nav_spin">Spin Wheel</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="daily_streak_title">Daily Streak &amp; Check-In</string>
+    <string name="claim_daily_reward">Claim Daily Reward</string>
+    <string name="daily_reward_claimed">Claimed Today</string>
+    <string name="task_watch_earn_title">Watch &amp; Earn</string>
+    <string name="task_watch_earn_desc">Watch a short sponsored video</string>
+    <string name="task_spin_wheel_title">Daily Spin Wheel</string>
+    <string name="task_spin_wheel_desc">Spin to win up to 50 coins</string>
+    <string name="task_share_earn_title">Share &amp; Earn</string>
+    <string name="task_share_earn_desc">Invite friends and get 50 bonus coins</string>
+    <string name="wallet_title">My Reward Wallet</string>
+    <string name="withdraw_cash">Withdraw Cash</string>
+    <string name="min_withdrawal_notice">Minimum withdrawal is 500 Coins (₹50.00)</string>
+    <string name="transaction_history_title">Transaction History</string>
+</resources>

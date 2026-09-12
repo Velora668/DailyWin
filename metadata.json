@@ -1,0 +1,6 @@
+{
+  "name": "DailyWin",
+  "description": "Earn rewards daily with streak check-ins, rewarded videos, lucky spin wheel, referral sharing, and instant wallet withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
